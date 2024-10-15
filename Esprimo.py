@@ -1,5 +1,4 @@
 #Numero primo
-
 def esprimo(numero):
     numero=abs(numero)
     if numero<=2:
