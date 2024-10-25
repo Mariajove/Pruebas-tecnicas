@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Ejercicio5 {
+public class Ejercicio_5 {
 
     public static void main(String[] args) {
         // Pide 3 números por teclado e indica cuál es el mayor.
