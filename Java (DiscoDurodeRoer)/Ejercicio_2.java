@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class Ejercicio2 {
+public class Ejercicio_2 {
 	public static void main(String[] args) {
 	/*
     Pide el precio de un producto sin IVA y calcula su precio con IVA.
